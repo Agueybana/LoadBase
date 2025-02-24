@@ -1,0 +1,19 @@
+# Ignore generated prompt files
+codebase_prompt.txt
+codebase_prompt_AGM.txt
+codebase_prompt_MetaAgentRuv.txt
+codebase_prompt_MetaAgentRuv-GaboVersion1.txt
+codebase_prompt_MetaAgentRuv-GaboVersion2-selectfiles.txt
+codebase_prompt_MetaAgentRuv-GaboVersion3-selectfiles.txt
+codebase_prompt_MetaAgentRuv-GaboVersion4-selectfiles.txt
+ignore_paths_AGM.txt
+individual_files.sh
+
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore system files
+.DS_Store
+.idea/
+__pycache__/
